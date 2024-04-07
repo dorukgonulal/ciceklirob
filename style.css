@@ -350,6 +350,7 @@ footer a {
   cursor: pointer;
   margin-left: 3vh;
   margin-right: 3vh;
+  margin-bottom: 3vh;
   border-radius: 24px;
   padding: 2.5vh;
   display: inline-block;
