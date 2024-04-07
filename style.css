@@ -604,6 +604,13 @@ footer a {
     margin-top: 10px;
     width: 80%;
   }
+  
+  .hakkimizda {
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+    padding-left: 8vh;
+    padding-right: 8vh;
+  }
   .takimimiz img {
     width: 90%;
     border-radius: 20px;
